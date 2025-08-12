@@ -1,4 +1,4 @@
-package lista_de_exercicios1;
+package exercicios_resolvidos1;
 import java.util.Scanner;
 public class exercicio2 {
     public static void main(String[] args) {
